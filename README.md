@@ -6,6 +6,12 @@ Check out my blog for more info on any cool projects I'm doing, or just to read 
 
 [Web, Systems, Everything Bagel](https://blog.lethaison.com/) 
 
+### Contact Info:
+
+[Personal Website](https://www.lethaison.com/)
+
+[Linkedin](https://www.linkedin.com/in/thaison-le/)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
